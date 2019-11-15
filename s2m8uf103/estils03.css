@@ -1,0 +1,60 @@
+/*
+0.5em=8px
+0.75em=12px
+1em=16px (Titular)
+1.5em=24px(Paragraf)
+2em=32px(interliniat)
+*/
+p {
+  font-size: 24px;
+  font-size: 1.5em;
+  line-height: 32px;
+  text-align: justify;
+}
+img {
+  width: 150px;
+}
+div {
+  width: 800px;
+  margin: 0 auto;
+}
+.left {
+  float: left;
+  margin-left: 20px;
+  displa
+}
+.right {
+  float: right;
+  margin-right: 20px;
+  /*visibility: hidden;*/
+}
+.capitular {
+  float: left;
+  margin: 20px;
+  width: 100px;
+}
+.inical {
+  text-indent: -16px;
+}
+.inicial {
+  color: #FFF;
+}
+.c1 {
+  width: 390px;
+  float: left;
+
+}
+.c2 {
+  width: 390px;
+  float: right;
+}
+body{
+  font-size: 3em;
+}
+h2 {
+  font-family: Georgia, Times;
+  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Dancing Script';
+  font-size: 1.5em;
+
+}
