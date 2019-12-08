@@ -1,0 +1,32 @@
+
+
+body{
+  background: #222;
+  font-family: Helvetica, sans-serif;
+}
+#barra{
+  position: fixed;
+  background-color: black 0,5;
+  height:50px;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+h4{
+  margin: 20px 5px;
+  float: left;
+  color: #FFF;
+}
+h5{
+  margin: 22px 5px;
+  float: right;
+  color: #FFF;
+}
+img{
+  margin: 5px 20px;
+  float: left;
+}
+h3{
+  color: #FFF;
+  margin: 60px 5px;
+}
