@@ -1,0 +1,13 @@
+  body{
+    font-family: arial, helvetica, sans-serif;
+
+  }
+  div{
+    background-image: url(img/regionsdvd.jpg);
+    background-repeat: no-repeat;
+  }
+  #contenidor{
+    background-image: none;
+    width: 575px;
+    margin: 0 auto;
+  }
