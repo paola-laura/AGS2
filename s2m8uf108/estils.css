@@ -1,0 +1,33 @@
+/* movil vertical*/
+@media screen and (max-width:641px) and (orientation:portrait){
+  body{
+    background-color: yellowgreen;
+  }
+}
+
+/* movil horizontales*/
+@media screen and (max-width:641px) and (orientation:landscape){
+  body{
+    background-color: green;
+  }
+}
+
+/*tablets verticales*/
+@media screen and (min-width:641px) and (max-width:1200px) and (orientation:portrait){
+  body{
+    background-color: pink;
+  }
+}
+
+/*tablets horizontales*/
+@media screen and (min-width:641px) and (max-width:1200px) and (orientation:landscape){
+  body{
+    background-color: orange;
+  }
+}
+/*Escritorio*/
+@media screen and (min-width:1200px){
+  body{
+    background-color: yellow;
+  }
+}
