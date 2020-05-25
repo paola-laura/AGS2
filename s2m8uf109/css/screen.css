@@ -1,0 +1,80 @@
+body{
+  background-color: rgba(157, 77, 77, 0.5);
+  font-family: 'Aldrich', Arial, Helvetica, sans-serif;
+  font-size: 1em;
+}
+.contingut{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  background-color:;
+  /*background-image: url(../img/bar.png);*/
+  background-repeat: no-repeat;
+  background-position: center 40%;
+  background-size: 300px auto;
+}
+h1{
+  text-align: center;
+  font-size: 4em;
+  line-height: 4em;
+  font-weight: 700;
+  width: 300px;
+  margin: 15% auto;
+}
+.pantalla{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  background-color:;
+  background-image: url(../img/bar.png);
+  background-repeat: no-repeat;
+  background-position:center 25%;
+  background-size: 200px auto;
+}
+h2{
+  text-align: center;
+  font-size: 3em;
+  line-height: 4em;
+  font-weight: 700;
+  width: 300px;
+  margin: 10% auto;
+
+}
+.cap{
+  background-color: #9D4D4D;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+}
+.cos{
+  background-color: rgba(157, 77, 77, 0.5);
+  position: fixed;
+  top: 80px;
+  left: 0;
+  right: 0;
+  bottom: 80px;
+  overflow-y: auto;
+
+}
+.peu{
+  background-color:#9D4D4D ;
+  position:fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+}
+
+.iconos{
+  overflow: hidden;
+  width: 400px;
+  margin: 0 auto;
+}
