@@ -1,0 +1,132 @@
+@keyframes aniflor{
+  0%{
+  background: green;
+}
+  20%{
+    background: yellow;
+  }
+
+  40%{
+    background: orange;
+  }
+
+  60%{
+    background: red;
+  }
+
+  80%{
+    background: #FB2A98;
+  }
+
+  100%{
+    background: purple;
+  }
+}
+
+@keyframes rotacio {
+  0%{
+  transform:rotate(0deg);
+  }
+
+  100%{
+    transform:rotate(360deg);
+  }
+}
+
+.petal{
+  position:absolute;
+  width:100px;
+  height: 100px;
+  background:green ;
+  border-radius: 0 100px 0 100px;
+  transform-origin: right bottom;
+  border: solid 1px yellow;
+  /*animation-name:aniflor;
+  animation-duration: 2s;
+  animation-delay: 0;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  */
+  animation: aniflor 2s infinite alternate-reverse;
+}
+
+.flor{
+  transform:scale(1);
+  width:204px;
+  height: 204px;
+  margin: 200px auto;
+  animation: rotacio 0.00001s infinite;
+  transform-origin: center center;
+  animation-timing-function: linear;
+
+}
+
+#cor{
+  position: absolute;
+  width:50px;
+  height:50px;
+  background: orange;
+  border-radius: 50%;
+  top:80px;
+  left:80px;
+}
+
+.esquerra{
+  margin: 50px auto 100px 50px;
+}
+
+.dreta{
+  margin: 100px 50px 100px auto;
+}
+
+.centrada{
+  margin: 100px auto;
+}
+
+#p1{
+  transform:rotate(0deg);
+}
+
+#p2{
+  transform:rotate(30deg);
+}
+
+#p3{
+  transform:rotate(60deg);
+}
+
+#p4{
+  transform:rotate(90deg);
+}
+
+#p5{
+  transform:rotate(120deg);
+}
+
+#p6{
+  transform:rotate(150deg);
+}
+
+#p7{
+  transform:rotate(180deg);
+}
+
+#p8{
+  transform:rotate(210deg);
+}
+
+#p9{
+  transform:rotate(240deg);
+}
+
+#p10{
+  transform:rotate(270deg);
+}
+
+#p11{
+  transform:rotate(300deg);
+}
+
+#p12{
+  transform:rotate(330deg);
+}
