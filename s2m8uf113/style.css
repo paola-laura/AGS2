@@ -1,0 +1,25 @@
+.cor{
+  margin:30px;
+  padding:0;
+}
+
+.derecha{
+  position: relative;
+  width:45px;
+  height:80px;
+  background:red;
+  float:left;
+  border-radius: 50px 50px 0 0;
+  transform: rotate(45deg);
+  left: -20px;
+}
+
+.izquierda{
+  position: relative;
+  width:45px;
+  height:80px;
+  background:red;
+  float:left;
+  border-radius: 50px 50px 0 0;
+  transform: rotate(-45deg);
+}
