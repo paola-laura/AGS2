@@ -1,0 +1,76 @@
+ul {
+  width: 800px;
+  overflow: hidden;
+  display: block;
+  margin: 0;
+  padding: 0px;
+  margin: 0 auto;
+
+}
+li {
+  background-color: purple;
+  list-style-type: none;
+  display: block;
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  float: right;
+  float: left;
+  box-shadow: grey 5px 5px 10px;
+  background-size: 100%;
+  border-radius: 20%;
+  font-size: 20px;
+
+}
+a{
+  height: 200px;
+  display: block;
+
+}
+/*.anulador {
+  /*clear: left;*/
+  /*clear: right;*/
+  /*clear: both;} */
+
+#a01 {
+  background-image: url(img/a01.png);
+}
+#a02 {
+  background-image: url(img/a02.png);
+}
+#a03 {
+  background-image: url(img/a03.png);
+}
+#a04 {
+  background-image: url(img/a04.png);
+}
+#a05 {
+  background-image: url(img/a05.png);
+}
+#a06 {
+  background-image: url(img/a06.png);
+}
+#a07 {
+  background-image: url(img/a07.png);
+}
+#a08 {
+  background-image: url(img/a08.png);
+}
+#a09 {
+  background-image: url(img/a09.png);
+}
+#a10 {
+  background-image: url(img/a10.png);
+}
+#a11 {
+  background-image: url(img/a11.png);
+}
+#a12 {
+  background-image: url(img/a12.png);
+}
+#a13 {
+  background-image: url(img/a13.png);
+}
+#a14 {
+  background-image: url(img/a14.png);
+}
