@@ -1,0 +1,44 @@
+body{background:#8dd2f2;
+                        }
+
+
+.content{}
+
+.largos{
+         width:57%;
+        height:15%;
+        background:White;
+        float:right;
+        margin: 3%;
+        border-radius: 1rem;
+        font-size:1em;
+        text-align:center;
+        border:1px solid silver;
+        display: table-cell;
+        vertical-align:middle;
+        word-wrap: break-word;
+        overflow: hidden;
+    }
+
+h1 {margin: 3px 0px 10px 0px;
+                            }
+
+p{  word-wrap: break-word;
+    color:black;
+                          }
+
+.corto{
+      width:auto;
+      height:15%;
+      background:#8dd2f2 ;
+      float:right;
+      margin: 5%;
+      border-radius:1rem;
+      background-image: url(../IMG/.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-size: 100%;
+     -moz-background-size: 100%;
+     -o-background-size: 100%;
+    -webkit-background-size: 100%;
+    -khtml-background-size: 100%; }
