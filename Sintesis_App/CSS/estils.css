@@ -1,0 +1,16 @@
+body{
+  background-color: #FFFF;
+}
+.contingut{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  background-color:;
+  background-image: url(../img/logotipo.png);
+  background-repeat: no-repeat;
+  background-position: center 40%;
+  background-size: 300px auto;
+}
