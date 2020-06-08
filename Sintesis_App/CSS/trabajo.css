@@ -1,0 +1,134 @@
+body{
+  background:#8dd2f2;
+ }
+
+.largos{
+        width:57%;
+        height:1s5%;
+        background:White;
+        float:right;
+        margin: 3%;
+        border-radius: 1rem;
+        font-size:1em;
+        text-align:center;
+        border:1px solid silver;
+        display: table-cell;
+        vertical-align:middle;
+        word-wrap: break-word;
+        overflow: hidden;
+}
+
+h1 {
+margin: 3px 0px 10px 0px;
+color: #333;
+ }
+
+p{
+  word-wrap: break-word;
+  color: #333;
+}
+.content{
+  padding-top: 60px;
+}
+
+.corto1{
+      width:22%;
+      height:15%;
+      background:;
+      float:right;
+      margin: 3%;
+      border-radius:1rem;
+      background-image: url(../IMG/trabajo1.jpg);
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+     -moz-background-size: 100%;
+     -o-background-size: 100%;
+    -webkit-background-size: 100%;
+    -khtml-background-size: 100%;
+  }
+.corto2{
+      width:22%;
+      height:15%;
+      background: ;
+      float:right;
+      margin: 3%;
+      border-radius:1rem;
+      background-image: url(../IMG/trabajo2.jpg);
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      background-size: 100%;
+     -moz-background-size: 100%;
+     -o-background-size: 100%;
+    -webkit-background-size: 100%;
+    -khtml-background-size: 100%;
+    }
+.corto3{
+        width:22%;
+        height:15%;
+        background:;
+        float:right;
+        margin: 3%;
+        border-radius:1rem;
+        background-image: url(../IMG/trabajo3.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-size: 100%;
+       -moz-background-size: 100%;
+       -o-background-size: 100%;
+      -webkit-background-size: 100%;
+      -khtml-background-size: 100%;
+      }
+.corto4{
+        width:22%;
+        height:15%;
+        background: ;
+        float:right;
+        margin: 3%;
+        border-radius:1rem;
+        background-image: url(../IMG/trabajo5.jfif);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-size: 100%;
+       -moz-background-size: 100%;
+       -o-background-size: 100%;
+      -webkit-background-size: 100%;
+      -khtml-background-size: 100%;
+        }
+.corto5{
+        width:22%;
+        height:15%;
+        background: White;
+        float:right;
+        margin: 3%;
+        border-radius:1rem;
+        background-image: url(../IMG/trabajo6.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-size: 100%;
+       -moz-background-size: 100%;
+        -o-background-size: 100%;
+      -webkit-background-size: 100%;
+      -khtml-background-size: 100%;
+          }
+.corto6{
+        width:22%;
+        height:15%;
+        background: ;
+        float:right;
+        margin: 3%;
+        border-radius:1rem;
+        background-image: url(../IMG/trabajo8.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-size: 100%;
+       -moz-background-size: 100%;
+        -o-background-size: 100%;
+      -webkit-background-size: 100%;
+      -khtml-background-size: 100%;
+          }
